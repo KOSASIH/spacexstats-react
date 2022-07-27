@@ -1,4 +1,4 @@
-
+[![CodeQL](https://github.com/KOSASIH/spacexstats-react/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/spacexstats-react/actions/workflows/codeql-analysis.yml)
 [![Dependency Review](https://github.com/KOSASIH/spacexstats-react/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/spacexstats-react/actions/workflows/dependency-review.yml)
 # SpaceX Stats
 
